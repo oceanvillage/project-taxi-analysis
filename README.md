@@ -13,6 +13,6 @@
 ![table 1](/assets/table_1.png)<br>
 <br>
   1) Precision & Accuracy look acceptable<br>
-  2) False Positive(FP) 602 is approximately twice of False Negative(FN) 355.<br>
-     i.e. This model will inform the driver of generous tipping expected but, at the end, it will not be the case.<br>
+  2) False Positive(FP) is almost 3 times of False Negative(FN).<br>
+     i.e. This model will inform the driver of generous tipping expected 3 times more but, at the end, it will not be the case.<br>
 <br>
