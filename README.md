@@ -10,7 +10,7 @@
 <br>
 ## Results<br>
 ![graph 1](/assets/graph_1.png)![graph 2](/assets/graph_2.png)<br>
-![table 1](/assets/table_1.png)!<br>
+![table 1](/assets/table_1.png)<br>
 <br>
   1) Precision & Accuracy look acceptable<br>
   2) False Positive(FP) 602 is approximately twice of False Negative(FN) 355.<br>
