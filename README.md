@@ -16,3 +16,8 @@
   2) False Positive(FP) is almost 3 times of False Negative(FN).<br>
      i.e. This model will inform the driver of generous tipping expected 3 times more but, at the end, it will not be the case.<br>
 <br>
+## Notes>br>
+project-taxi-analysis.ipynb is designed to work in Google COLAB.<br>
+Please create folders such as "/REG" and "/data" underneath "gdrive/MyDrive" and place ipynb file under "Mydrive".<br>
+Also, utilize write/read pickle as needed.<br>
+<br>
