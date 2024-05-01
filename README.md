@@ -9,7 +9,8 @@
   Analyze the data and Advise NYC TLC the best approach to increase more revenue<br>
 <br>
 ## Results<br>
-<img src="/assets/graph_1.png" width="400"><br>
+<img src="/assets/graph_1.png" width="400">
+<img src="/assets/graph_2.png" width="600"><br>
 ![graph 1](/assets/graph_1.png)![graph 2](/assets/graph_2.png)<br>
 ![table 1](/assets/table_1.png)<br>
 <br>
