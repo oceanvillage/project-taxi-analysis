@@ -9,9 +9,12 @@
   Analyze the data and Advise NYC TLC the best approach to increase revenue<br>
 <br>
 ## Results<br>
+Scores by four different models<br>
 ![table 1](/assets/table_1.png)<br>
 XGB model shows the best score among four models<br>
-![graph 1](/assets/graph_1.png)<br>
+Let's check which features have more influence on the tipping amount<br>
+<br>
+Confusion Matrix<br>
 ![graph 2](/assets/graph_2.png)<br>
 
 <br>
