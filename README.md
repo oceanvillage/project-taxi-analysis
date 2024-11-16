@@ -12,7 +12,8 @@
 Scores by four different models<br>
 ![table 1](/assets/table_1.png)<br>
 XGB model shows the best score among four models<br>
-Let's check which features have more influence on the tipping amount<br>
+ <br>
+Let's check which features have more influence on the tipping amount with XGB model<br>
 <br>
 Confusion Matrix<br>
 ![graph 2](/assets/graph_2.png)<br>
